@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AS_WebView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AS_WebViewLanjutan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AS_WebViewLanjutan/AS_WebViewLanjutan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AS_implicitintent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/as_multi-language" vcs="Git" />
+  </component>
+</project>
